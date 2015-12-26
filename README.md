@@ -16,6 +16,6 @@ Install:
 	
 LIRE
 ---
-For all issues and wuestion regarding lire, refer to the original lire sources:
+For all issues and questions regarding lire, refer to the original lire sources:
 * [Original LIRE Readme](README.txt)
 * [Lire Repo](https://code.google.com/p/lire/)
